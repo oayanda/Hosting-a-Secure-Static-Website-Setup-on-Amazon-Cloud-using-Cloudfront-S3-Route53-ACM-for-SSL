@@ -248,9 +248,3 @@ Enter your domain in the browser first try `yourdomain.com` and then `www.yourdo
 Notice the lock icon in the URL, this means your website is secure.
 
 **Congratulation!!!** You have successfully deployed a static website via HTTP and HTTPS protocols in AWS.
-
-As always, I look forward to getting your thoughts on this post and aws resources. Please feel free to leave a comment!
-
-
-
-
