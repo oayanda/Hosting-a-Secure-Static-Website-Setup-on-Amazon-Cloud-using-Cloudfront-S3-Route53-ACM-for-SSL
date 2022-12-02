@@ -19,7 +19,7 @@ We are going to create the static website in two ways -
 
 - An Amazon account (Register for a [AWS Free Tier Account](https://aws.amazon.com/free/?trk=712ee378-d73b-4293-9bad-8ce09671ea7c&sc_channel=ps&s_kwcid=AL!4422!3!444219541826!e!!g!!aws%20free%20tier&ef_id=Cj0KCQiAvqGcBhCJARIsAFQ5ke7C8AzjS-yGr_Qv0zWtmc47RXWusLo-c_1IQ2XUaQkm0WayVy38AY0aAqXBEALw_wcB:G:s&s_kwcid=AL!4422!3!444219541826!e!!g!!aws%20free%20tier&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) )
 
-- A static website (To follow along, you can clone this from [my Github repo](https://github.com/oayanda/static-website) )
+- A static website 
 
 Let's get started!
 
