@@ -13,7 +13,7 @@ We are going to create the static website in two ways -
 1. Serve the website publicly via HTTP protocol using S3 website endpoint.
 2. Serve the website publicly via HTTPS protocol using SSL from ACM and Cloudfront.
 
-**Perquisite:**
+**Prerequisite:**
 
 - A domain name (You can get a free domain from [Freenom](http://www.freenom.com/en/index.html) )
 
@@ -223,7 +223,7 @@ Scroll down to _**Bucket policy**_ and click on _**Copy policy**_
 
 ![policy](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/saoajecwwyulxvaflkgz.png)
 Navigate to your S3 bucket _**permissions**_ tab, scroll down to _**Bucket policy**_, click on edit and paste the policy you copied from the cloudfront distribution and save changes.
-
+![policy](/images/35.png)
 Cloudfront will take some minutes to deploy the configuration
 
 The last step is to add the records in Route 53.
