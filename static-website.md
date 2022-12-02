@@ -1,4 +1,4 @@
-# Static Website Setup on Amazon Cloud using Cloudfront S3 Route53 ACM for SSL
+# Hosting a Secure Static Website Setup on Amazon Cloud using Cloudfront S3 Route53 ACM for SSL
 
 In this post, you will learn how to:
 
